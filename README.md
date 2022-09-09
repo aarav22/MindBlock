@@ -1,9 +1,3 @@
-
-- Support for bitcoin-lib-js: https://gist.github.com/coreyphillips/4d45160fed016417a5f583f179c2cbdb
-- BlockCypher: https://www.blockcypher.com/
-- Figma
-    - Primary: https://www.figma.com/file/RwZ0HW0c16MCXg2ItL70J7/Whollet-UI-Kit-v1.0?node-id=4%3A13205
-    - Content: https://www.figma.com/file/7NdmHaVLKVq6mnQPasDMLA/Whollet-UI-Kit-v1.0-(Copy)?node-id=4%3A14092
 # MindBlock - The Blockchain App
 
 
@@ -37,7 +31,7 @@ Uses ReactNative to build a cross-platofrom app.
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Jaan Pehchan</h3>
+<h3 align="center">MindBlock</h3>
 
   <p align="center">
     MindBlock takes the technical working of bitcoin and blockchain and simplifies it down using analogies to create a seamless user experience. The end goal of this application is to be a place where people can come and learn about these lesser known features about cryptocurrencies. The application makes use of textual, visual and interactive techniques to achieve this goal. The application was created for educational purposes which is why the focus was to lower the learning curve at all times. 
@@ -83,6 +77,8 @@ Uses ReactNative to build a cross-platofrom app.
 ## About The Project
 
 <img src="images/app-img.png" alt="loading-img" width="300"/>
+
+Cryptocurrencies have gained a lot of popularity in recent years, People are investing a lot of money into that market. As of April 16th 2021, Bitcoin is valued at $ 63,237.  That’s the financial market side of things. Bitcoin, however, is a lot more than that. Bitcoin in it’s true sense is a decentralized peer to peer payment system. There’s no single body that lies at the heart of bitcoin. Bitcoin was truly groundbreaking when it was first announced.
 
 The Application is divided into modules (7 of them) to maintain a consistent flow of information. Each module focuses on one aspect of Bitcoin. To move onto the next module, a user must complete the previous modules. The module names are as follows: 
 1. What is Bitcoin?
@@ -141,6 +137,8 @@ To get a local copy up and running follow these simple example steps.
 1. Application: [APK](https://drive.google.com/drive/folders/1N99I2qs8V7FVjOYwx48Y4O9QT7rUXRAl?usp=sharing)
 2. Application Demo: [App Demo](https://drive.google.com/file/d/1uMmACfQlEZtecamnmhr0Jqy-_C8-C5uV/view?usp=sharing), [API Demo](https://drive.google.com/file/d/1uMmACfQlEZtecamnmhr0Jqy-_C8-C5uV/view?usp=sharing)
 3. Application Wireframes: [Here](https://www.figma.com/file/7NdmHaVLKVq6mnQPasDMLA/Whollet-UI-Kit-v1.0-Copy?node-id=244%3A15400)
+4. Support for bitcoin-lib-js: https://gist.github.com/coreyphillips/4d45160fed016417a5f583f179c2cbdb
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
