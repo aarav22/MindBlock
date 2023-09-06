@@ -34,7 +34,7 @@ Uses ReactNative to build a cross-platofrom app.
 <h3 align="center">MindBlock</h3>
 
   <p align="center">
-    MindBlock takes the technical working of bitcoin and blockchain and simplifies it down using analogies to create a seamless user experience. The end goal of this application is to be a place where people can come and learn about these lesser known features about cryptocurrencies. The application makes use of textual, visual and interactive techniques to achieve this goal. The application was created for educational purposes which is why the focus was to lower the learning curve at all times. 
+   simplifies the complexities of Bitcoin and blockchain technology through analogies, aiming to provide users with an intuitive learning experience. Our goal is to serve as an educational platform where individuals can easily grasp lesser-known aspects of cryptocurrencies. We employ a blend of text, visuals, and interactive tools to achieve this, always prioritizing a user-friendly learning journey. 
     <br />
     <a href="https://github.com/aarav22/MindBlock"><strong>Explore the docs »</strong></a>
     <br />
